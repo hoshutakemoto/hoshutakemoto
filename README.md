@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🧠 竹元 亨舟（たけもと ほうしゅう）
 
-<!--
-**hoshutakemoto/hoshutakemoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🇯🇵 このページは日本語です ｜ [English version is here.](./README.en.md)
 
-Here are some ideas to get you started:
+## 📍 プロフィール
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **名前**：竹元 亨舟（たけもと ほうしゅう）  
+- **生年**：1999年  
+- **出身地**：大阪府  
+
+## 📘 来歴
+
+| 年月 | 所属・組織名 | ステータス・内容 |
+|------|----------------|--------------------|
+| 2015年4月 | 寝屋川高等学校 普通科 | 入学 |
+| 2019年3月 | 寝屋川高等学校 普通科 | 卒業 |
+| 2019年4月 | 関西大学 総合情報学部 | 入学 |
+| 2022年6月 | 株式会社アイデミー | アルバイトデータサイエンティスト（Python・SQL・Dash） |
+| 2023年3月 | 関西大学 総合情報学部 | 卒業 |
+| 2023年4月 | 関西大学大学院 総合情報学研究科 | 入学 |
+| 2024年9月 | 関西大学大学院 総合情報学研究科 | 休学（体調面の都合により） |
+| 2024年12月 | 株式会社アイデミー | 退社 |
+| 2025年4月 | 関西大学大学院 総合情報学研究科 | 復学 |
+
+## 🏛️ ビジョン
+
+### 🔧 アーキテクチャのトレードオフに挑む
+
+堅牢でありながら柔軟なシステムをどう作るか、そのトレードオフにワクワクしています。  
+業務として責任感を持ってコミットしつつ、それでも理想的に整理され意味づけされた空間を保つことに喜びを感じます。
+
+### 🚀 技術を追い続ける
+
+AIなどの先端技術にも継続的に関心を持ち、学び続けることを大切にしています。  
+勉強会や知見の共有を通して、技術的価値を社会に広げられたらと思っています。
+
+## 👤 About Me
+
+理論派で設計主義。
+
+テキストベースでの丁寧なコミュニケーションが得意。
+
+責務の分離と構造の美しさを重視。
+
+## 🛠️ スキルセット
+* 🧠 **専門研究分野**：データマイニング、情報検索、言語処理
+* 💻 **コーディング言語**：Python / C# / C++ / C / Java / JavaScript / SQL / Excel VBA
+* 🧩 **フレームワーク・環境**：Unity / ModTheSpire / tModLoader / DXライブラリ
+* 🤖 **AI・データ分析**：PyTorch / pandas / scikit-learn / NumPy / huggingface / Dash / Plotly / Matplotlib / ComfyUI
+* ⚙️ **ツール**：Docker / GitHub / IntelliJ IDEA / Eclipse / VSCode / Visual Studio
+* **TOEIC**：875点
+* **paizaスキルチェック**：Sランク
