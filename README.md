@@ -12,15 +12,9 @@
 
 | 年月 | 所属・組織名 | ステータス・内容 |
 |------|----------------|--------------------|
-| 2015年4月 | 寝屋川高等学校 普通科 | 入学 |
-| 2019年3月 | 寝屋川高等学校 普通科 | 卒業 |
-| 2019年4月 | 関西大学 総合情報学部 | 入学 |
-| 2022年6月 | 株式会社アイデミー | アルバイトデータサイエンティスト（Python・SQL・Dash） |
-| 2023年3月 | 関西大学 総合情報学部 | 卒業 |
-| 2023年4月 | 関西大学大学院 総合情報学研究科 | 入学 |
-| 2024年9月 | 関西大学大学院 総合情報学研究科 | 休学（体調面の都合により） |
-| 2024年12月 | 株式会社アイデミー | 退社 |
-| 2025年4月 | 関西大学大学院 総合情報学研究科 | 復学 |
+| 2019年4月~2023年3月 | 関西大学 総合情報学部 | 入学・卒業 |
+| 2022年6月~2024年12月 | 株式会社アイデミー | アルバイトデータサイエンティスト（Python・SQL・Dash） |
+| 2023年4月~ | 関西大学大学院 総合情報学研究科 | 入学・在学 |
 
 ## 🏛️ ビジョン
 
@@ -34,22 +28,15 @@
 AIなどの先端技術にも継続的に関心を持ち、学び続けることを大切にしています。  
 勉強会や知見の共有を通して、技術的価値を社会に広げられたらと思っています。
 
-## 👤 About Me
-
-理論派で設計主義。
-
-テキストベースでの丁寧なコミュニケーションが得意。
-
-責務の分離と構造の美しさを重視。
-
 ## 🛠️ スキルセット
-* 🧠 **専門研究分野**：データマイニング、情報検索、言語処理
-* 💻 **コーディング言語**：Python / C# / C++ / C / Java / JavaScript / SQL / Excel VBA
-* 🧩 **フレームワーク・環境**：Unity / ModTheSpire / tModLoader / DXライブラリ
-* 🤖 **AI・データ分析**：PyTorch / pandas / scikit-learn / NumPy / huggingface / Dash / Plotly / Matplotlib / ComfyUI
-* ⚙️ **ツール**：Docker / GitHub / IntelliJ IDEA / Eclipse / VSCode / Visual Studio
-* **TOEIC**：875点
-* **paizaスキルチェック**：Sランク
+* 🧠 **研究分野**: データマイニング, 情報検索, 自然言語処理
+* 💻 **コーディング言語**: Python, C#, Java, Go, Rust, C++, C, JavaScript, TypeScript, PostgreSQL, Excel VBA
+* 🧩 **フレームワーク・環境**: Unity, React, Node.js, Express, Flask, air (Go), ModTheSpire, tModLoader, DX Library
+* 🤖 **AI・データ分析**: PyTorch, pandas, scikit-learn, NumPy, HuggingFace Transformers, Dash, Plotly, Matplotlib, ComfyUI
+* ☁️ **インフラ・開発基盤**: Docker, Kubernates, Devcontainer, GitHub Actions
+* 🛠️ **開発ツール・エディタ**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse, Git, GitHub
+* **TOEIC**: 875
+* **paizaスキルチェック**: S
 
 ## 学術活動・研究発表
 
@@ -92,8 +79,3 @@ AIなどの先端技術にも継続的に関心を持ち、学び続けること
 ### 受賞歴
 
 - 🏆 第18回Webインテリジェンスとインタラクション研究会 **学生奨励賞**
-
-### 所属学会
-
-- 情報処理学会（学生会員）  
-- エンタテインメントコンピューティング研究会
