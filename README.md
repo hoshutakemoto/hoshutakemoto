@@ -37,7 +37,7 @@ AIなどの先端技術にも継続的に関心を持ち、学び続けること
 * ☁️ **インフラ・設計**: Docker, Kubernates, Redis, Devcontainer, GitHub Actions, Clean Architecture, DDD
 * 🛠️ **開発ツール・エディタ**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse
 * 🔐 **セキュリティ**: OAuth2, OIDC, JWT, RBAC, Zero Trust
-* **TOEIC**: 875
+* **TOEIC**: 875 (2020/01)
 * **paizaスキルチェック**: S
 
 ## 学術活動・研究発表
