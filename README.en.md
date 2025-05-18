@@ -10,15 +10,9 @@
 
 | Period | Organization | Status / Role |
 |--------|--------------|----------------|
-| 2015 Apr | Neyagawa High School | Enrolled |
-| 2019 Mar | Neyagawa High School | Graduated |
-| 2019 Apr | Kansai University | Enrolled (School of Informatics) |
-| 2022 Jun | AIDEMY Inc. | Part-time Data Analyst (Python, SQL, Dash) |
-| 2023 Mar | Kansai University | Graduated |
-| 2023 Apr | Kansai University Graduate School | Enrolled |
-| 2024 Sep | Kansai University Graduate School | On Leave (Health-related) |
-| 2024 Dec | AIDEMY Inc. | Left |
-| 2025 Apr | Kansai University Graduate School | Returning |
+| 2019 Apr ~ 2023 Mar | Kansai University | Enrolled (School of Informatics), Graduated |
+| 2022 Jun ~ 2024 Dec | AIDEMY Inc. | Part-time Data Analyst (Python, SQL, Dash), Left |
+| 2023 Apr ~ | Kansai University Graduate School | Enrolled |
 
 ## 🏛️ Professional Vision
 
@@ -31,21 +25,14 @@ I enjoy keeping systems organized and meaningful while committing responsibly to
 
 I continuously explore emerging technologies such as AI, and actively engage in study groups and knowledge sharing.
 
-## 👤 About Me
-
-Logical and structure-oriented.  
-I communicate best through written, thoughtful exchanges.  
-Most comfortable designing systems with clear responsibility separation and conceptual clarity.
-
 ## 🛠️ Technical Skills & Tools
 
 * 🧠 **Research Interests**: Data Mining, Information Retrieval, NLP
-* 💻 **Programming Languages**: Python / C# / C++ / C / Java / Javascript / SQL / Excel VBA
-* 🧩 **Frameworks**: Unity / ModTheSpire / tModLoader / DX Library
-* 🤖 **AI / Data Science Tools**:
-  * PyTorch / pandas / scikit-learn / NumPy / huggingface / Transformer  
-  * Jupyter Notebook / Dash / Plotly / Matplotlib / ComfyUI
-* ⚙️ **Development Tools**：Docker / IntelliJ IDEA / Eclipse / VSCode / Visual Studio
+* 💻 **Programming Languages**: Python, C#, Java, Go, Rust, C++, C, JavaScript, TypeScript, PostgreSQL, Excel VBA
+* 🧩 **Frameworks**: Unity, React, Node.js, Express, Flask, air (Go), ModTheSpire, tModLoader, DX Library
+* 🤖 **AI / Data Science Tools**: PyTorch, pandas, scikit-learn, NumPy, HuggingFace Transformers, Dash, Plotly, Matplotlib, ComfyUI
+* ☁️ **Infrastructures**: Docker, Kubernates, Devcontainer, GitHub Actions
+* 🛠️ **Development Tools**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse, Git, GitHub
 * **TOEIC Score**：875  
 * **Paiza Skill Check**：S
 
@@ -97,8 +84,3 @@ Most comfortable designing systems with clear responsibility separation and conc
 ### 🏅 Awards
 
 - **Student Encouragement Award**, 18th Web Intelligence and Interaction Workshop (WI2)
-
-### 🧑‍🔬 Academic Affiliations
-
-- Member, Information Processing Society of Japan (IPSJ)  
-- Member, Special Interest Group on Entertainment Computing (EC)
