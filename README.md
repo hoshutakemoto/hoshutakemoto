@@ -29,12 +29,14 @@ AIなどの先端技術にも継続的に関心を持ち、学び続けること
 勉強会や知見の共有を通して、技術的価値を社会に広げられたらと思っています。
 
 ## 🛠️ スキルセット
+
 * 🧠 **研究分野**: データマイニング, 情報検索, 自然言語処理
 * 💻 **コーディング言語**: Python, C#, Java, Go, Rust, C++, C, JavaScript, TypeScript, PostgreSQL, Excel VBA
-* 🧩 **フレームワーク・環境**: Unity, React, Node.js, Express, Flask, air (Go), ModTheSpire, tModLoader, DX Library
+* 🧩 **フレームワーク・環境**: Unity, React, Node.js, Express, Flask, air (Go), DX Library
 * 🤖 **AI・データ分析**: PyTorch, pandas, scikit-learn, NumPy, HuggingFace Transformers, Dash, Plotly, Matplotlib, ComfyUI
-* ☁️ **インフラ・開発基盤**: Docker, Kubernates, Devcontainer, GitHub Actions
-* 🛠️ **開発ツール・エディタ**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse, Git, GitHub
+* ☁️ **インフラ・設計**: Docker, Kubernates, Redis, Devcontainer, GitHub Actions, Clean Architecture, DDD
+* 🛠️ **開発ツール・エディタ**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse
+* 🔐 **セキュリティ**: OAuth2, OIDC, JWT, RBAC, Zero Trust
 * **TOEIC**: 875
 * **paizaスキルチェック**: S
 
