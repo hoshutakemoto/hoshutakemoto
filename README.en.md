@@ -29,11 +29,12 @@ I continuously explore emerging technologies such as AI, and actively engage in 
 
 * 🧠 **Research Interests**: Data Mining, Information Retrieval, NLP
 * 💻 **Programming Languages**: Python, C#, Java, Go, Rust, C++, C, JavaScript, TypeScript, PostgreSQL, Excel VBA
-* 🧩 **Frameworks**: Unity, React, Node.js, Express, Flask, air (Go), ModTheSpire, tModLoader, DX Library
+* 🧩 **Frameworks**: Unity, React, Node.js, Express, Flask, air (Go), DX Library
 * 🤖 **AI / Data Science Tools**: PyTorch, pandas, scikit-learn, NumPy, HuggingFace Transformers, Dash, Plotly, Matplotlib, ComfyUI
-* ☁️ **Infrastructures**: Docker, Kubernates, Devcontainer, GitHub Actions
-* 🛠️ **Development Tools**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse, Git, GitHub
-* **TOEIC Score**：875  
+* ☁️ **Infrastructure / Architecture**: Docker, Kubernates, Redis, Devcontainer, GitHub Actions, Clean Architecture, DDD
+* 🛠️ **Development Tools**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse
+* 🔐 **Security**: OAuth2, OIDC, JWT, RBAC, Zero Trust
+* **TOEIC Score**：875 (Jan 2020)
 * **Paiza Skill Check**：S
 
 ## 📚 Academic Activities
