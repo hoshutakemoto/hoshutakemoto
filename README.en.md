@@ -39,6 +39,10 @@ I continuously explore emerging technologies such as AI, and actively engage in 
 
 ## 📚 Academic Activities
 
+### Research Theme
+
+Applied Modeling of Implicature Structure in Textual Expressions Using Large Language Models
+
 ### 🧪 Conference Presentations (Domestic)
 
 #### The 14th Forum on Data Engineering and Information Management (DEIM 2022)
