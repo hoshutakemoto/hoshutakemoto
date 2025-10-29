@@ -1,87 +1,91 @@
-# 🧠 竹元 亨舟（たけもと ほうしゅう）
+# Takemoto Hoshu (竹元 亨舟)
 
-> 🇯🇵 このページは日本語です ｜ [English version is here.](./README.en.md)
+## 📍 Profile
 
-## 📍 プロフィール
+- **Name**: Takemoto Hoshu  
+- **Birth Year**: 1999
+- **Hometown**: Osaka, Japan
 
-- **名前**：竹元 亨舟（たけもと ほうしゅう）  
-- **生年**：1999年  
-- **出身地**：大阪府  
+## 📘 Academic & Work History
 
-## 📘 来歴
+| Period | Organization | Status / Role |
+|--------|--------------|----------------|
+| 2019 Apr ~ 2023 Mar | Kansai University | Enrolled (School of Informatics), Graduated |
+| 2022 Jun ~ 2024 Dec | AIDEMY Inc. | Part-time Data Analyst (Python, SQL, Dash), Left |
+| 2023 Apr ~ | Kansai University Graduate School | Enrolled |
 
-| 年月 | 所属・組織名 | ステータス・内容 |
-|------|----------------|--------------------|
-| 2019年4月~2023年3月 | 関西大学 総合情報学部 | 入学・卒業 |
-| 2022年6月~2024年12月 | 株式会社アイデミー | アルバイトデータサイエンティスト（Python・SQL・Dash） |
-| 2023年4月~ | 関西大学大学院 総合情報学研究科 | 入学・在学 |
+## 🏛️ Professional Vision
 
-## 🏛️ ビジョン
+### 🔧 Challenge the Trade-offs of Architecture
 
-### 🔧 アーキテクチャのトレードオフに挑む
+I’m fascinated by the balance between robustness and flexibility in system design.  
+I enjoy keeping systems organized and meaningful while committing responsibly to real-world constraints.
 
-堅牢でありながら柔軟なシステムをどう作るか、そのトレードオフにワクワクしています。  
-業務として責任感を持ってコミットしつつ、それでも理想的に整理され意味づけされた空間を保つことに喜びを感じます。
+### 🚀 Lifelong Technical Growth
 
-### 🚀 技術を追い続ける
+I continuously explore emerging technologies such as AI, and actively engage in study groups and knowledge sharing.
 
-AIなどの先端技術にも継続的に関心を持ち、学び続けることを大切にしています。  
-勉強会や知見の共有を通して、技術的価値を社会に広げられたらと思っています。
+## 🛠️ Technical Skills & Tools
 
-## 🛠️ スキルセット
+* 🧠 **Research Interests**: Data Mining, Information Retrieval, NLP
+* 💻 **Programming Languages**: Python, C#, Java, Go, Rust, C++, C, JavaScript, TypeScript, PostgreSQL, Excel VBA
+* 🧩 **Frameworks**: Unity, React, Node.js, Express, Flask, air (Go), DX Library
+* 🤖 **AI / Data Science Tools**: PyTorch, pandas, scikit-learn, NumPy, HuggingFace Transformers, Dash, Plotly, Matplotlib, ComfyUI
+* ☁️ **Infrastructure / Architecture**: Docker, Kubernates, Redis, Devcontainer, GitHub Actions, Clean Architecture, DDD
+* 🛠️ **Development Tools**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse
+* 🔐 **Security**: OAuth2, OIDC, JWT, RBAC, Zero Trust
+* **TOEIC Score**：875 (Jan 2020)
+* **Paiza Skill Check**：S
 
-* 🧠 **研究分野**: データマイニング, 情報検索, 自然言語処理
-* 💻 **コーディング言語**: Python, C#, Java, Go, Rust, C++, C, JavaScript, TypeScript, PostgreSQL, Excel VBA
-* 🧩 **フレームワーク・環境**: Unity, React, Node.js, Express, Flask, air (Go), DX Library
-* 🤖 **AI・データ分析**: PyTorch, pandas, scikit-learn, NumPy, HuggingFace Transformers, Dash, Plotly, Matplotlib, ComfyUI
-* ☁️ **インフラ・設計**: Docker, Kubernates, Redis, Devcontainer, GitHub Actions, Clean Architecture, DDD
-* 🛠️ **開発ツール・エディタ**: VSCode, Visual Studio, IntelliJ IDEA, Eclipse
-* 🔐 **セキュリティ**: OAuth2, OIDC, JWT, RBAC, Zero Trust
-* **TOEIC**: 875 (2020/01)
-* **paizaスキルチェック**: S
+## 📚 Academic Activities
 
-## 学術活動・研究発表
+### Research Theme
 
-### 研究テーマ
+Applied Modeling of Implicature Structure in Textual Expressions Using Large Language Models
 
-文章表現における含意の構造的特性の大規模言語モデルを用いた応用的モデル化
+### 🧪 Conference Presentations (Domestic)
 
-### 国内研究会
+#### The 14th Forum on Data Engineering and Information Management (DEIM 2022)
 
-#### 第14回データ工学と情報マネジメントに関するフォーラム（DEIM 2022）
+- **Dates**: February 27 (Sun) – March 2 (Wed), 2022  
+- **Format**: Online  
+- **Presentation Date**: March 1 (Tue), 2022  
+- **Session**: C34: Emotion, Reputation, Fairness  
+- **Paper Title**:  
+  _Expressing Properties of Opinion Texts by Likelihood Distributions on Existing Datasets  
+  – Exploring the Potential Use of Existing Datasets as Pseudo-Corpora –_  
+- **Authors**:  
+  Houshu Takemoto (Kansai University), Ryosuke Yamanishi (Kansai University),  
+  Yoko Nishihara (Ritsumeikan University), Mitsuo Yoshida (University of Tsukuba),  
+  Tomoko Osuga, Keizo Oyama (National Institute of Informatics)  
+- [Official Event Page](https://event.dbsj.org/deim2022/)
 
-- **開催日**：2022年2月27日（日）～3月2日（水）・オンライン開催  
-- **発表日**：2022年3月1日（火）  
-- **セッション**：C34 感情・評判・公平性  
-- **論文タイトル**：  
-  『既存データセットへの尤度分布による意見文の性質表現  
-  ─ 擬似コーパスとしての既存データセット集合の利活用の可能性 ─』  
-- **著者**：竹元亨舟（関西大学）、山西良典（関西大学）、西原陽子（立命館大学）、  
-  吉田光男（筑波大学）、大須賀智子・大山敬三（国立情報学研究所）  
-- [公式サイトはこちら](https://event.dbsj.org/deim2022/)
+#### The 18th Web Intelligence and Interaction SIG Workshop (WI2)
 
-#### 第18回Webインテリジェンスとインタラクション研究会（WI2）
+- **Dates**: November 25 (Fri) – 26 (Sat), 2022  
+- **Venue**: Kochi University of Technology (Eikokuji Campus)  
+- **Presentation Date**: November 26 (Sat), 2022  
+- **Session**: Information Recommendation (2) / Information Extraction  
+- **Paper Title**:  
+  _Extracting Poetic Paraphrase Expressions Based on Orthographic Features from User Posts on a Music Knowledge-Sharing Platform_  
+- **Authors**:  
+  Houshu Takemoto (Kansai University), Ryosuke Yamanishi (Kansai University),  
+  Yoko Nishihara (Ritsumeikan University)  
+- [Workshop Overview](https://www.sigwi2.org/report-no18.html)  
+- [Lab Report Article (Japanese)](https://ccca-lab.net/2770)
 
-- **開催日**：2022年11月25日（金）～26日（土）・高知工科大学 永国寺キャンパス  
-- **発表日**：2022年11月26日（土）  
-- **セッション**：情報推薦（2）・情報抽出  
-- **論文タイトル**：  
-  『音楽知識共有プラットフォーム上のユーザ投稿からの表記特徴を手がかりとした詩的な言い換え表現の抽出』  
-- **著者**：竹元亨舟（関西大学）、山西良典（関西大学）、西原陽子（立命館大学）  
-- [研究会公式ページ](https://www.sigwi2.org/report-no18.html)  
-- [研究室報告記事](https://ccca-lab.net/2770)
+### 🏫 In-House Presentations
 
-### 学内発表
+#### The 28th Kansai University Symposium on Advanced Science and Technology (2024)
 
-#### 第28回関西大学先端科学技術シンポジウム（2024年）
+- **Dates**: January 25 (Thu) – 26 (Fri), 2024  
+- **Venue**: Kansai University, Senriyama Campus, 100th Anniversary Hall  
+- **Presentation Date**: January 25 (Thu), 2024 (Poster Session)  
+- **Poster Title**:  
+  _Extracting Figurative Expressions in Western Song Lyrics Using a Rule-Based Method with User-Generated Content (UGC)_  
+- **Authors**:  
+  Houshu Takemoto (Kansai University), Ryosuke Yamanishi (Kansai University)
 
-- **開催日**：2024年1月25日（木）～26日（金）  
-- **会場**：関西大学 千里山キャンパス 100周年記念会館  
-- **発表日**：2024年1月25日（木）・ポスターセッション  
-- **ポスタータイトル**：  
-  『UGCを用いたルールベース手法による洋楽歌詞中の転義法表現の抽出』  
-- **著者**：竹元亨舟（関西大学）、山西良典（関西大学）
+### 🏅 Awards
 
-### 受賞歴
-
-- 🏆 第18回Webインテリジェンスとインタラクション研究会 **学生奨励賞**
+- **Student Encouragement Award**, 18th Web Intelligence and Interaction Workshop (WI2)
