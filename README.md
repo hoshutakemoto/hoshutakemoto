@@ -14,17 +14,6 @@
 | 2022 Jun ~ 2024 Dec | AIDEMY Inc. | Part-time Data Analyst (Python, SQL, Dash), Left |
 | 2023 Apr ~ | Kansai University Graduate School | Enrolled |
 
-## 🏛️ Professional Vision
-
-### 🔧 Challenge the Trade-offs of Architecture
-
-I’m fascinated by the balance between robustness and flexibility in system design.  
-I enjoy keeping systems organized and meaningful while committing responsibly to real-world constraints.
-
-### 🚀 Lifelong Technical Growth
-
-I continuously explore emerging technologies such as AI, and actively engage in study groups and knowledge sharing.
-
 ## 🛠️ Technical Skills & Tools
 
 * 🧠 **Research Interests**: Data Mining, Information Retrieval, NLP
